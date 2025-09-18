@@ -52,10 +52,10 @@
 /* header */
 
 .header{
-    background-image: url('../images/developer.png'), url('../images/header_bg.png');
+    background-image: url('images/developer.png'), url('images/header_bg.png');
     background-repeat: no-repeat;
     background-position: top left, bottom right;
-    background-size: 100px auto, 600px 350px;
+    background-size: 70px auto, 650px 350px;
 }
 
 /* Nav style */
